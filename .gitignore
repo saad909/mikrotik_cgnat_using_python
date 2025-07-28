@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 Outputs/*
 shell.nix
+shell.nix
+ip_pools.xlsx
